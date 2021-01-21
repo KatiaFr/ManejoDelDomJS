@@ -1,0 +1,40 @@
+html {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ad5389;  
+    background: linear-gradient(to bottom, #3c1053, #ad5389); }
+h3, p {
+    color: lightgoldenrodyellow;
+}
+table {
+    width: 40%;
+    
+}
+
+table, th, td {
+    border: none;
+    text-align: center;
+    padding: 7px;
+}
+th {
+    background: #ff7ccb;  
+    background: linear-gradient(to bottom, #ffffff, cyan); 
+    }
+
+tr { 
+    background-color: cyan;
+    
+}
+
+footer {
+    width: 100%;
+    margin-top: 20%;
+    text-align: center;
+    background-color: #ad5389;
+}
